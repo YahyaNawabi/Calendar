@@ -14,6 +14,6 @@ A minimalistic calendar web app that displays the current date, day, month, and 
 - JavaScript (ES6)
 
 ## 📂 Getting Started
-1. Visit the live app here: [Calculator App](https://yahyanawabi.github.io/Calendar/)
+1. Visit the live app here: [Calendar App](https://yahyanawabi.github.io/Calendar/)
 
 
